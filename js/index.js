@@ -17,9 +17,6 @@
 
 // });
 
-
-
-
 document.querySelector("form").onsubmit = function (e) {
     e.preventDefault();
 
@@ -36,6 +33,5 @@ document.querySelector("form").onsubmit = function (e) {
         console.log(err)
     });
 }
-
 
 document.querySelector("#navbarSupportedContent > form > input").unclick
