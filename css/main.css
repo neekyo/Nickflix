@@ -3,6 +3,10 @@ body {
     background-color: rgb(20, 20, 20);
 }
 
+body h1 {
+    padding-top: 150px;
+}
+
 
 .navbar {
     position: fixed;
