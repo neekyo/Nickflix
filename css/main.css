@@ -41,16 +41,6 @@ body {
   #button:active {
     background-color: #555;
   }
- 
-  /* .thumbnail:hover {
-    position:relative;
-    top:-25px;
-    left:-35px;
-    width:500px;
-    height:auto;
-    display:block;
-    z-index:999;
-} */
 
 .thumb{
     transition:all .4s;
@@ -60,7 +50,6 @@ body {
     position: relative;
     z-index: 2;
     margin-left:-50%;
-    /* transform: scale(1.5); */
     width:200%;
     height:inherit;
     object-fit: unset;
@@ -73,13 +62,4 @@ img.thumb{
 
 .col-md-2 {
     padding: 0;
-}
-
-.overlay {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    z-index: 2;
-    background-color: #080d15;
-    opacity: .7;
 }
