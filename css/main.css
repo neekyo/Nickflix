@@ -3,16 +3,15 @@ body {
     background-color: rgb(20, 20, 20);
 }
 
-body h1 {
-    padding-top: 150px;
-}
-
-
 .navbar {
     position: fixed;
     width: 100%;
     z-index: 3000000;
     margin-bottom: 150px;
+}
+
+h1 {
+    padding-top: 100px;
 }
 
 .navbar-brand  {
