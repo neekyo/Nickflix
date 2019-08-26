@@ -1,5 +1,5 @@
 body { 
-    padding-top: 10px;
+    /* padding-top: 10px; */
     background-color: rgb(20, 20, 20);
 }
 
@@ -38,7 +38,7 @@ body h1 {
  }
 
  .carousel {
-     padding-top: 65px;
+     padding-top: 62px;
  }
 
  #button:hover {
