@@ -62,11 +62,15 @@ for(let i = 1; i< recentlyAdded.length; i++){
 //   }
 function getOneRegister(e) {
     let id = Number(e.target.alt);
-    console.log(id, "+)_+_+_+_+_+")
+    console.log(id, "+)_8989898+")
     axios.get("db.json")
       .then((response) => {
         console.log(response.data)
-        let movie = response.data.filter(id=>id===e.target.alt)
-        console.log('the specific id is ',movie)
+        let movie = response.data.movies.filter(movie=>movie.id===Number(e.target.alt))
+        let link = movie[0]['imdb-link'];
+        console.log('the specific ???id is ',movie, link)
+        window.open(link)
       }).catch(err => console.error(err))
   }
+
+
