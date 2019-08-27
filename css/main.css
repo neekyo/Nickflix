@@ -61,8 +61,21 @@ div.col-md-2:hover img.thumb{
     object-fit: unset;
 }
 
+div.col-md-2:hover img.six{
+    position: relative;
+    z-index: 2;
+    width:110%;
+    height:inherit;
+    object-fit: unset;
+    transform: translateX(-2.75vw);
+}
+
 img.thumb{
     object-fit: cover;
+    height: 350px;
+}
+img.six{
+    width: 94.25%;
     height: 350px;
 }
 
@@ -146,4 +159,11 @@ box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
 -o-transition: all 250ms ease-in-out 0s;
 transition: all 250ms ease-in-out 0s;
 
+}
+
+:target {
+    display: block;
+    position:relative;
+    top: -100px;
+    visibility: hidden;
 }
