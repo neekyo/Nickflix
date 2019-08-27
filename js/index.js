@@ -63,7 +63,7 @@ for(let i = 1; i< recentlyAdded.length; i++){
 function getOneRegister(e) {
     let id = Number(e.target.alt);
     console.log(id)
-    axios.get("../db.json")
+    axios.get("db.json")
       .then((response) => {
         console.log(response.data)
       }).catch(err => console.error(err))
