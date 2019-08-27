@@ -1,0 +1,294 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "name": "The Conjuring 2",
+        "genre": "My List",
+        "imdb-link": "https://www.imdb.com/title/tt3065204/?ref_=nv_sr_3?ref_=nv_sr_3"
+      },
+      {
+        "id": 2,
+        "name": "Sinister",
+        "genre": "My List",
+        "imdb-link": "https://www.imdb.com/title/tt1922777/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 3,
+        "name": "Don't Breathe",
+        "genre": "My List",
+        "imdb-link": "https://www.imdb.com/title/tt4160708/?ref_=nv_sr_1?ref_=nv_sr_1   "
+      },
+      {
+        "id": 4,
+        "name": "The Offering",
+        "genre": "My List",
+        "imdb-link": "https://www.imdb.com/title/tt3894404/?ref_=fn_al_tt_1"
+      },
+      {
+        "id": 5,
+        "name": "Us",
+        "genre": "My List",
+        "imdb-link": "https://www.imdb.com/title/tt6857112/?ref_=nv_sr_2?ref_=nv_sr_2"
+      },
+      {
+        "id": 6,
+        "name": "The Possession",
+        "genre": "My List",
+        "imdb-link": "https://www.imdb.com/title/tt0431021/?ref_=fn_al_tt_1"
+      },
+      {
+        "id": 7,
+        "name": "White House Down",
+        "genre": "Action",
+        "imdb-link": "https://www.imdb.com/title/tt2334879/"
+      },
+      {
+        "id": 8,
+        "name": "Sinners and Saints: Vengeance",
+        "genre": "Action",
+        "imdb-link": "https://www.imdb.com/title/tt7566112/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 9,
+        "name": "Mr. Right",
+        "genre": "Action",
+        "imdb-link": "https://www.imdb.com/title/tt2091935/?ref_=nv_sr_2?ref_=nv_sr_2"
+      },
+      {
+        "id": 10,
+        "name": "The Golem",
+        "genre": "Action",
+        "imdb-link": "https://www.imdb.com/title/tt8329290/?ref_=fn_al_tt_1"
+      },
+      {
+        "id": 11,
+        "name": "Venom",
+        "genre": "Action",
+        "imdb-link": "https://www.imdb.com/title/tt1270797/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 12,
+        "name": "Silencer",
+        "genre": "Action",
+        "imdb-link": "https://www.imdb.com/title/tt5867226/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 13,
+        "name": "Look Away",
+        "genre": "Thrillers",
+        "imdb-link": "https://www.imdb.com/title/tt5834760/?ref_=fn_al_tt_1"
+      },
+      {
+        "id": 14,
+        "name": "Wrecked",
+        "genre": "Thrillers",
+        "imdb-link": "https://www.imdb.com/title/tt1316622/?ref_=nv_sr_3?ref_=nv_sr_3"
+      },
+      {
+        "id": 15,
+        "name": "Eden Lake",
+        "genre": "Thrillers",
+        "imdb-link": "https://www.imdb.com/title/tt1020530/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 16,
+        "name": "The Girl in the Photographs",
+        "genre": "Thrillers",
+        "imdb-link": "https://www.imdb.com/title/tt3826866/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 17,
+        "name": "Boarding School",
+        "genre": "Thrillers",
+        "imdb-link": "https://www.imdb.com/title/tt6224502/?ref_=nv_sr_2?ref_=nv_sr_2"
+      },
+      {
+        "id": 18,
+        "name": "Cold Comes the Night",
+        "genre": "Thrillers",
+        "imdb-link": "https://www.imdb.com/title/tt2511428/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 19,
+        "name": "Gwen",
+        "genre": "Horror",
+        "imdb-link": "https://www.imdb.com/title/tt5149490/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 20,
+        "name": "The Witch",
+        "genre": "Horror",
+        "imdb-link": "https://www.imdb.com/title/tt4263482/?ref_=fn_al_tt_1"
+      },
+      {
+        "id": 21,
+        "name": "Hellfest",
+        "genre": "Horror",
+        "imdb-link": "https://www.imdb.com/title/tt1999890/?ref_=nv_sr_5?ref_=nv_sr_5"
+      },
+      {
+        "id": 22,
+        "name": "Jackals",
+        "genre": "Horror",
+        "imdb-link": "https://www.imdb.com/title/tt6104206/?ref_=fn_al_tt_1"
+      },
+      {
+        "id": 23,
+        "name": "The Neon Demon",
+        "genre": "Horror",
+        "imdb-link": "https://www.imdb.com/title/tt1974419/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 24,
+        "name": "The Unraveling",
+        "genre": "Horror",
+        "imdb-link": "https://www.imdb.com/title/tt4076916/?ref_=fn_al_tt_1"
+      },
+      {
+        "id": 25,
+        "name": "Sonic the Hedgehog",
+        "genre": "Animated",
+        "imdb-link": "https://www.imdb.com/title/tt3794354/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 26,
+        "name": "Monster House",
+        "genre": "Animated",
+        "imdb-link": "https://www.imdb.com/title/tt0385880/?ref_=fn_al_tt_1"
+      },
+      {
+        "id": 27,
+        "name": "Shark Tale",
+        "genre": "Animated",
+        "imdb-link": "https://www.imdb.com/title/tt0307453/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 28,
+        "name": "Igor",
+        "genre": "Animated",
+        "imdb-link": "https://www.imdb.com/title/tt0465502/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 29,
+        "name": "Moana",
+        "genre": "Animated",
+        "imdb-link": "https://www.imdb.com/title/tt3521164/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 30,
+        "name": "Adventures in Zambezia",
+        "genre": "Animated",
+        "imdb-link": "https://www.imdb.com/title/tt1488181/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 31,
+        "name": "Central Intelligence",
+        "genre": "Comedies",
+        "imdb-link": "https://www.imdb.com/title/tt1489889/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 32,
+        "name": "21 Jump Street",
+        "genre": "Comedies",
+        "imdb-link": "https://www.imdb.com/title/tt1232829/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 33,
+        "name": "Mascots",
+        "genre": "Comedies",
+        "imdb-link": "https://www.imdb.com/title/tt4936176/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 34,
+        "name": "Bruce Almighty",
+        "genre": "Comedies",
+        "imdb-link": "https://www.imdb.com/title/tt0315327/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 35,
+        "name": "Hall Pass",
+        "genre": "Comedies",
+        "imdb-link": "https://www.imdb.com/title/tt0480687/?ref_=fn_al_tt_1"
+      },
+      {
+        "id": 36,
+        "name": "Just Go with It",
+        "genre": "Comedies",
+        "imdb-link": "https://www.imdb.com/title/tt1564367/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 37,
+        "name": "Dexter",
+        "genre": "TV Shows",
+        "imdb-link": "https://www.imdb.com/title/tt0773262/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 38,
+        "name": "Doctor Who",
+        "genre": "TV Shows",
+        "imdb-link": "https://www.imdb.com/title/tt0436992/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 39,
+        "name": "The Blacklist",
+        "genre": "TV Shows",
+        "imdb-link": "https://www.imdb.com/title/tt2741602/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 40,
+        "name": "The Outpost",
+        "genre": "TV Shows",
+        "imdb-link": "https://www.imdb.com/title/tt7612548/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 41,
+        "name": "Grimm",
+        "genre": "TV Shows",
+        "imdb-link": "https://www.imdb.com/title/tt1830617/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 42,
+        "name": "Rabbids Invasion",
+        "genre": "TV Shows",
+        "imdb-link": "https://www.imdb.com/title/tt3105674/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 43,
+        "name": "Pet Semetary",
+        "genre": "Recently Added",
+        "imdb-link": "https://www.imdb.com/title/tt0837563/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 44,
+        "name": "Brightburn",
+        "genre": "Recently Added",
+        "imdb-link": "https://www.imdb.com/title/tt7752126/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 45,
+        "name": "Annihilation",
+        "genre": "Recently Added",
+        "imdb-link": "https://www.imdb.com/title/tt2798920/?ref_=nv_sr_2?ref_=nv_sr_2"
+      },
+      {
+        "id": 46,
+        "name": "One Missed Call",
+        "genre": "Recently Added",
+        "imdb-link": "https://www.imdb.com/title/tt0479968/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 47,
+        "name": "The Eyes of my Mother",
+        "genre": "Recently Added",
+        "imdb-link": "https://www.imdb.com/title/tt5225338/?ref_=nv_sr_1?ref_=nv_sr_1"
+      },
+      {
+        "id": 48,
+        "name": "The Skeleton Key",
+        "genre": "Recently Added",
+        "imdb-link": "https://www.imdb.com/title/tt5225338/?ref_=nv_sr_1?ref_=nv_sr_1"
+      }
+    ]
+}
+      
+  

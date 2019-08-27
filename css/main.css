@@ -61,19 +61,29 @@ div.col-md-2:hover img.thumb{
     object-fit: unset;
 }
 
+div.col-md-2:hover img.one{
+    position: relative;
+    z-index: 2;
+    width:110%;
+    height:inherit;
+    object-fit: unset;
+    transform: translateX(1vw);
+}
+
 div.col-md-2:hover img.six{
     position: relative;
     z-index: 2;
     width:110%;
     height:inherit;
     object-fit: unset;
-    transform: translateX(-2.75vw);
+    transform: translateX(-2.6vw);
 }
 
 img.thumb{
     object-fit: cover;
     height: 350px;
 }
+
 img.six{
     width: 94.25%;
     height: 350px;
