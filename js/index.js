@@ -66,5 +66,7 @@ function getOneRegister(e) {
     axios.get("db.json")
       .then((response) => {
         console.log(response.data)
+        let movie = response.data.filter(id=>id===e.target.alt)
+        console.log('the specific id is ',movie)
       }).catch(err => console.error(err))
   }
