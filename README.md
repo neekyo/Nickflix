@@ -1,4 +1,4 @@
 # Nickflix
 Nickflix (HTML5, CSS, JS, JSON)
 [View Here!](https://neekyo.github.io/Nickflix/ "View here")
-![preview.gifcask](preview.gifcask)
+![preview.gif](preview.gif)
