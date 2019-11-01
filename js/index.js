@@ -73,4 +73,18 @@ function getOneRegister(e) {
       }).catch(err => console.error(err))
   }
 
+  function scrollToSearch() {
+    var name = document.getElementById('searchForm').elements['searchItem'].value;
+    var searchQuery = name.toLowerCase().trim();
+    var categoryCardDivs = document.getElementsByClassName('col-sm-3');
+
+    for (var i = 0; i < categoryCardDivs.length; i++) {
+        var categoryCardATag = categoryCardDivs[i].getElementsByTagName('a')[0];
+        if (categoryCardATag.innerText.toLowerCase().includes(searchQuery)) {
+            categoryCardDivs[i].parentNode.scrollIntoView();
+            break;
+        }
+    }
+} 
+
 
